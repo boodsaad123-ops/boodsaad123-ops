@@ -1,28 +1,11 @@
 ## Hi there 👋
-# 💫 About Me:
-👨‍💻 I'm currently working on<br>Improving my programming skills and learning Java.<br><br>🤝 I'm looking to collaborate on<br>Beginner-friendly programming projects.<br><br>🙋 I'm looking for help with<br>Java, problem-solving, and software development.<br><br>🌱 I'm currently learning<br>Java and programming fundamentals.<br><br>💬 Ask me about<br>My programming journey and what I'm learning.<br><br>⚡ Fun fact<br>I'm passionate about technology and love learning new things!<br><br>
+Hi, I'm Mohamed El-sayed 👋
 
+Aspiring Software Developer | Learning Java & Programming 🚀
+📍 Egypt 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1mohamed.elsayed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-elsayed-1a5854339?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamadelsayedsadd@gmail.com) 
+مبتدئ في البرمجة، بتعلم Java وبسجّل رحلتي هنا خطوة بخطوة. 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=boodsaad123-ops&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=boodsaad123-ops&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=boodsaad123-ops&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+--- ## 🌱 About Me - 🎓 Currently learning **Java** and programming fundamentals - 💡 Passionate about technology and problem solving - 🤝 Looking to collaborate on beginner-friendly projects ## 🛠️ Skills (what I'm learning) ![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Beginner-181717?style=for-the-badge&logo=github&logoColor=white) **Java topics so far:** variables, `Scanner` input, `if / else`, `for` / `while` / `do-while` loops, `Math.random()` ## 📂 Projects | Project | Description | |---------|-------------| | [🎯 Guess Game](https://github.com/boodsaad123-ops/java-projects/tree/main/GuessGame) | Number guessing game with hints and replay | ➡️ More coming soon in [java-projects](https://github.com/boodsaad123-ops/java-projects) ## 📫 Connect - GitHub: [@boodsaad123-ops](https://github.com/boodsaad123-ops) --- 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=boodsaad123-ops&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=boodsaad123-ops&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=boodsaad123-ops&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ Learning one project at a time ⭐
